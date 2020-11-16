@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libouster_client.so -o /home/team5/catkin_ws/devel/lib/libouster_client.so CMakeFiles/ouster_client.dir/src/os1.cpp.o CMakeFiles/ouster_client.dir/src/os1_util.cpp.o -ljsoncpp 

@@ -1,0 +1,5 @@
+<launch>
+
+<include file="$~/catkin_ws/src/realsense-ros/realsense2_camera/launch/rs_camera.launch" />
+
+</launch>
